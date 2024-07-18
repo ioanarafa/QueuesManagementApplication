@@ -7,14 +7,23 @@ The queues management application should simulate (by defining a simulation time
 
 
 •	Object-oriented programming design 
+
 •	Random Client Generator 
+
 •	Multithreading: one thread per queue  
+
 •	Appropriate synchronized data structures to assure thread safety 
-•	Log of events displayed in a .txt file (see the example in Section 1.1) 
+
+•	Log of events displayed in a .txt file 
+
 •	Implement classes with maximum 300 lines (except the UI classes) and methods with maximum 30 lines 
+
 •	Use the Java naming conventions 
-•	Good quality documentation addressing all sections from the documentation structure. 
+
+•	Good quality documentation addressing all sections from the documentation structure.
+
 • Strategy pattern and the two strategies (shortest time, shortest queue) for allocating clients to queues 
+
 • Graphical user interface for: (1) simulation setup, and (2) displaying the real-time queue evolution. 
 • Display of simulation results (average waiting time, average service time, peak hour for the simulation interval) in the graphical user interface/.txt file corresponding to the log events 
 
